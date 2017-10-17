@@ -12,7 +12,8 @@ site_title: Hacksburg Wiki
 company_name: Hacksburg
 # this appears in the footer
 
-github_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
+github_editme_path: cowmanjohn/cowmanjohn.github.io
+
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: 
@@ -73,7 +74,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      comments: true
+      comments: false
       search: true
       sidebar: home_sidebar
       topnav: topnav
