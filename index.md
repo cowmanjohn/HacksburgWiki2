@@ -1,9 +1,10 @@
-ï»¿---
-title: Wiki Start
-keywords: homepage start
-tags: [getting_started]
-sidebar: mydoc_sidebar
+---
+title: Hacksburg Wiki
+keywords: home homepage
+tags:
+sidebar: home_sidebar
 permalink: index.html
+summary: The Wiki for Hacksburg. Please add and update using the repo.
 ---
 
 **Hacksburg** is a hackerspace located in Blacksburg, VA at [2200 Kraft Drive](https://www.google.com/maps/place/Hacksburg/@37.1993608,-80.4088912,18z/data=!3m1!4b1!4m5!3m4!1s0x884d9456512b06f1:0x59f7d1e3f1e84920!8m2!3d37.199359!4d-80.407971), in the Virginia Tech Corporate Research Center.
@@ -23,7 +24,7 @@ We're a 501c3 non-profit and love donations! Read more [[here|Donations]].
 
 ## Events
 ### Recurring Events
-* **Weekly meeting every Tuesday 7:30 PM** â€“ feel free to come by for a tour! This meeting is open-to-the-public and followed by an open-to-the-public work session starting at the end of the meeting to whenever the last member leaves.
+* **Weekly meeting every Tuesday 7:30 PM** – feel free to come by for a tour! This meeting is open-to-the-public and followed by an open-to-the-public work session starting at the end of the meeting to whenever the last member leaves.
 
 ### Upcoming Events
 * October 14, 9am to 3pm - [Repair Cafe at the NRV ReStore](https://www.facebook.com/events/1733510660283858/)
@@ -40,7 +41,7 @@ We're a 501c3 non-profit and love donations! Read more [[here|Donations]].
 * [[Sewing corner]]
 * [[Computers, displays, and internet connectivity]]
 * [[Inventory]]
-* [[Tool Wishlist]] â€“ Please use this set of pages to offer donations or to request tools.
+* [[Tool Wishlist]] – Please use this set of pages to offer donations or to request tools.
 
 ## Projects
 * [[New 3D printer]]
