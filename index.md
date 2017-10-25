@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Hacksburg Wiki
 keywords: home homepage
 tags:
@@ -24,7 +24,7 @@ We're a 501c3 non-profit and love donations! Read more [[here|Donations]].
 
 ## Events
 ### Recurring Events
-* **Weekly meeting every Tuesday 7:30 PM** – feel free to come by for a tour! This meeting is open-to-the-public and followed by an open-to-the-public work session starting at the end of the meeting to whenever the last member leaves.
+* **Weekly meeting every Tuesday 7:30 PM** â€“ feel free to come by for a tour! This meeting is open-to-the-public and followed by an open-to-the-public work session starting at the end of the meeting to whenever the last member leaves.
 
 ### Upcoming Events
 * October 14, 9am to 3pm - [Repair Cafe at the NRV ReStore](https://www.facebook.com/events/1733510660283858/)
@@ -41,7 +41,7 @@ We're a 501c3 non-profit and love donations! Read more [[here|Donations]].
 * [[Sewing corner]]
 * [[Computers, displays, and internet connectivity]]
 * [[Inventory]]
-* [[Tool Wishlist]] – Please use this set of pages to offer donations or to request tools.
+* [[Tool Wishlist]] â€“ Please use this set of pages to offer donations or to request tools.
 
 ## Projects
 * [[New 3D printer]]
